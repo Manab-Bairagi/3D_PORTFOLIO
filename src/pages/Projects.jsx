@@ -64,7 +64,7 @@ const Projects = () => {
               University Exam Management System (MERN Stack)
             </button>
           </a>
-          <a href="https://your-ecommerce-app-link.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Manab-Bairagi/3D_PORTFOLIO" target="_blank" rel="noopener noreferrer">
             <button className="w-full bg-gradient-to-r from-blue-500 to-blue-700 hover:from-blue-400 hover:to-blue-600 text-white font-semibold py-3 px-6 rounded-full shadow-lg transition relative overflow-hidden before:absolute before:inset-0 before:bg-blue-400 before:opacity-0 before:transition-opacity-80 before:duration-300 hover:before:opacity">
               3D Portfolio using React,Tailwind & Three.js
             </button>
